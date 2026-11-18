@@ -206,7 +206,7 @@ The research paper is included in this repository for reference.
 
 ## Authors
 
-Vivek 
+**Vivek**
 Mechatronics Engineering  
 Mangalore Institute of Technology and Engineering (MITE)
 
